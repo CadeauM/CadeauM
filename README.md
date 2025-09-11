@@ -3,7 +3,7 @@
 Hi, I'm Cadeau !
 
 
-<br>💻 Software Engineering student sharing about my journey and learnings in tech.<br>Studying @ [WethinkCode], SA Johannesburg<br>🚀 Passionate about building Innovative scalable solutions & Learning<br>🌱 Currently diving deeper into [Backend engineering, AI & ML and DevOps]<br>⚡ Always curious, always learning<br>👯 I’m looking to collaborate on exciting projects and kode<br>📫 How to reach me: email me ! cadeaucodes@gmail.com<br>
+<br>💻 Software Engineering student sharing about my journey and learnings in tech.<br>🌱Studying @ [WethinkCode], Johannesburg<br>🚀 Passionate about building Innovative scalable solutions & Learning<br>🌱 Currently diving deeper into [Backend engineering, AI & ML and DevOps]<br>⚡ Always curious, always learning<br>👯 I’m looking to collaborate on exciting projects and kode<br>📫 How to reach me: email me ! cadeaucodes@gmail.com<br>
 
 
 ## 🌐 Socials:
