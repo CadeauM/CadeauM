@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi, I'm Cadeau !
+
+- 💻 Software Engineering student sharing about my journey and learnings in tech.
+- Studying @ [WethinkCode], SA Johannesburg
+- 🚀 Passionate about building Innovative scalable solutions & Learning
+- 🌱 Currently diving deeper into [Backend engineering, AI & ML and DevOps]
+- ⚡ Always curious, always learning
+- 👯 I’m looking to collaborate on exciting projects and kode
+- 📫 How to reach me: email me ! cadeaucodes@gmail.com
 
 <!--
 **CadeauM/CadeauM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
