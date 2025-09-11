@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical))
+![Cadeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeauM&show_icons=true&theme=radical))
 
 
 <!--
