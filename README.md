@@ -19,11 +19,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 ---
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+[![Cadeau's GitHub stats](https://github-readme-stats.vercel.app/api?username=CadeauM)](https://github.com/CadeauM/github-readme-stats)
 
 
 <!--
